@@ -16,13 +16,13 @@ public class TestFactorial {
 	 * 1. when the number is zero system should return 1
 	 * 2. when the number is one system should return 1
 	 * 3. when the number is -ve system should throw exception
-	 * 4. when the number is +ve system should return expected output
+	 * 4. when the number is +ve system should return expected output 12
 	 *  
 	 */
 	
 	@Test
 	public void whenTheNumberIsZeroSystemShouldReturnOne()
-	{
+	{ 
 		assertEquals(1,m.getFactorial(0));
 	}
 	
