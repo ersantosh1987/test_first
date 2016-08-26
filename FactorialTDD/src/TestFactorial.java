@@ -14,7 +14,7 @@ public class TestFactorial {
 	
 	/*
 	 * 1. when the number is zero system should return 1  qq
-	 * 2. when the number is one system should return 1
+	 * 2. when the number is one system should return 1 dd
 	 * 3. when the number is -ve system should throw exception
 	 * 4. when the number is +ve system should return expected output 12
 	 *  
